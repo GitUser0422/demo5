@@ -4,3 +4,12 @@
 [submodule "Sub_modules"]
 	path = Sub_modules
 	url = https://github.com/GitUser0422/demo3.git
+[submodule "Git/Sub_modules/demo3"]
+	path = Git/Sub_modules/demo3
+	url = https://github.com/GitUser0422/demo3.git
+[submodule "Git/Sub_modules/demo5"]
+	path = Git/Sub_modules/demo5
+	url = https://github.com/GitUser0422/demo5.git
+[submodule "Git/Sub_modules/Sub_modules"]
+	path = Git/Sub_modules/Sub_modules
+	url = https://github.com/GitUser0422/demo5.git
