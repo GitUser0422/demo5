@@ -1,2 +1,0 @@
-Git is a most commonly used versioning control system 
-for tracking development project files.
