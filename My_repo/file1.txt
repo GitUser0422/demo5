@@ -1,2 +1,3 @@
 text file
 My text file
+file
