@@ -1,1 +1,4 @@
 My new text file
+text file
+file
+file
