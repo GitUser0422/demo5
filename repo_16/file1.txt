@@ -2,3 +2,4 @@ My text file
 My text file
 file
 my test file
+It's my new text file
